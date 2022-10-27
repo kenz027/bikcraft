@@ -12,7 +12,7 @@ p{
 button,img{
     cursor: pointer;
 }
-.header_menu__menu_choice{
+a{
     text-decoration: none;
     text-transform: none;
     color:white;
@@ -38,6 +38,7 @@ button,img{
     font-weight: 700;
     font-size:25px;
     align-self: center;
+    cursor: pointer;
 }
 .header__menu{
     font-size: 18px;
