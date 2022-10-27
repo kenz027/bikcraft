@@ -12,6 +12,11 @@ p{
 button,img{
     cursor: pointer;
 }
+.header_menu__menu_choice{
+    text-decoration: none;
+    text-transform: none;
+    color:white;
+}
 .wrapper{
     height: 100vh;
     display: grid;
